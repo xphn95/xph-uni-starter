@@ -1,7 +1,7 @@
 # xph-uni-starter
 
 stack:
-- uniapp
-- vue3
-- ts
-- unocss
+- uni-app
+- Vue3
+- TS
+- UnoCSS
